@@ -19,6 +19,8 @@ Full Stack Development Course in Kuwait, 17th November 2014
 * Muneera Aljeri <mujeri@kisr.edu.kw> (https://github.com/muneera88)
 * Abdulaziz Al-Massaeed (abdulaziz.almassaeed@ahliunited.com) (https://github.com/hackfoo) 
 * Nasser AlSnayen (nasser.lc9@gmail.com) <https://github.com/LC9> 
+* Kermit the frog
+* Captain Awesomesauce
 
 PyCon Ireland in Dublin, 13th October 2014
 -----------------------------------------
